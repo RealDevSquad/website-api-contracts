@@ -69,7 +69,7 @@ Handles the callback from Google after the user authenticates, exchanges the aut
 
 - **Success Response**:
   - **Code**: 302
-  - **Content**: Redirects to the specified redirectURL or https://www.realdevsquad.com/new-signup if user details are incomplete.
+  - **Content**: Redirects to the specified redirectURL or <https://www.realdevsquad.com/new-signup> if user details are incomplete.
 
     ```
     Location: {redirectURL}
